@@ -1,4 +1,4 @@
-endpoint: "http://rtb.lunamedia.live/?pid={{.PublisherID}}"
+endpoint: "http://rtb.lunamedia.live/?pid="
 maintainer:
   email: "josh@lunamedia.io"
 capabilities:
